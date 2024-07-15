@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color :black;
+}
+nav{
+    background-color: black ;
+    color: white;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li:hover{
+    color: crimson;
+cursor: pointer;}
+input{
+    width: 60%;
+    padding: 15px;
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    
+}
+
+.box{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display: inline-block;
+    width: 235px;
+    background-color: black;
+    color: white; padding-bottom: 20px;
+}
+.Newarrival{
+    text-align: center;
+}
+p{
+    background-color: black;
+    color: white;
+}
+.box :hover{
+    background-color: black;
+    color: white;
+}
+.about{
+    text-align: center;
+    top: 20px;
+    color: white;
+    padding: 20px;
+}
+.details{
+    padding-top: 40px;
+    padding-left: 15px;
+}
+img{
+    padding-top: 20px;
+   
+    padding-bottom: 20px;
+   
+}
+.contact{
+    background-color: black;
+    color: white;text-align: center;
+    padding: 20px;
+}
